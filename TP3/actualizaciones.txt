@@ -1,0 +1,5 @@
+AAAAAAAAAA;Manuel;Sanchez;manuelACTU@hotmail.com;0;5
+AAAAAAAAAF;Juan;Cruz;juanxcruz@cruces.cruz;0;5
+AAAAAAAAAG;Alfajor;Jorguito;alfaaa@gmail.com;1;9
+AAAAAAAAAH;Pedro;Packsz;packszi@hotmail.com;10;4
+AAAAAAAAAI;Despvacio;ApedespVACio;wohoo@hotmail.com;2;5

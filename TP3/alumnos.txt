@@ -1,0 +1,5 @@
+AAAAAAAAAA;Manuel;Sanchez;manuedo@hotmail.com;0;6
+AAAAAAAAAB;Matias;Smithers;aguselmejor@gmail.com;3;4
+AAAAAAAAAC;Pedro;Picapiedra;picomuchapiedra@hotmail.com;1;5
+AAAAAAAAAD;Leandro;Manuelli;manumanu@hotmail.com;0;9
+AAAAAAAAAE;Peponcio;Alberdi;pepex@hotmail.com;10;6
